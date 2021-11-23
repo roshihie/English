@@ -1,0 +1,8 @@
+society        社会、協会、団体、学会、交流、つきあい
+service        (公共)事業、設備、業務、勤務、サービス
+establishment  組織、施設、設立、支配層、上層部
+institution    機関、組織、施設、制度、習慣
+agency         機関、局、代理店、作用
+department     部門、課、省、学科
+branch         枝、支店、支局、部門、分野
+
